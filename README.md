@@ -2,4 +2,4 @@
 
 This project aims to create a basic clone of a Twitter-like social media platform.
 
-![Gorsel](images/twitter1.png)
+![Gorsel](img/twitter1.png)
