@@ -1,9 +1,5 @@
 node_modules
-#images
-images/
-*.png
-*.jpg
-*.jpeg
+
 
 
 # IDE - VSCode
